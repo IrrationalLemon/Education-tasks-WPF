@@ -1,0 +1,15 @@
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\bin\Debug\second_try.exe.config
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\bin\Debug\second_try.exe
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\bin\Debug\second_try.pdb
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.csproj.AssemblyReference.cache
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\MainWindow.g.cs
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\App.g.cs
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try_MarkupCompile.cache
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try_MarkupCompile.lref
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\MainWindow.baml
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.g.resources
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.Properties.Resources.resources
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.csproj.GenerateResource.cache
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.csproj.CoreCompileInputs.cache
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.exe
+C:\Users\Plna228\Desktop\mdk\practice\second_try\second_try\obj\Debug\second_try.pdb

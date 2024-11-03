@@ -1,0 +1,15 @@
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\bin\Debug\FileSystem_firstTry.exe.config
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\bin\Debug\FileSystem_firstTry.exe
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\bin\Debug\FileSystem_firstTry.pdb
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.csproj.AssemblyReference.cache
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\MainWindow.g.cs
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\App.g.cs
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry_MarkupCompile.cache
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry_MarkupCompile.lref
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\MainWindow.baml
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.g.resources
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.Properties.Resources.resources
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.csproj.GenerateResource.cache
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.csproj.CoreCompileInputs.cache
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.exe
+C:\Users\Plna228\Desktop\mdk\practice\FileSystem_firstTry\FileSystem_firstTry\obj\Debug\FileSystem_firstTry.pdb
